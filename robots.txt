@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: update if your final URL differs
+Sitemap: https://devashishshirbhate-lgtm.github.io/sitemap.xml
